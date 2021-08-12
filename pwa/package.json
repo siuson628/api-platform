@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@api-platform/admin": "^2.2.0",
-    "@types/lodash": "^4.14.167",
+    "@types/lodash": "^4.14.171",
     "bootstrap": "^4.5.3",
     "isomorphic-unfetch": "^3.1.0",
     "lodash.get": "^4.4.2",
